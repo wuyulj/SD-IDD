@@ -1,4 +1,4 @@
-## Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation
+## SD-IDD: Selective Distillation for Incremental Defect Detec-tion
 
 Official Pytorch implementation for "[Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation](https://arxiv.org/abs/2204.02136)", CVPR 2022.
 
